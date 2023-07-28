@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="200px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="250px" />
 </div>
 - ⚡ I’m currently learning PHP and Laravel
 - 💬 Ask me about web frontend
