@@ -9,6 +9,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="php" width="45" height="45"/>
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg](https://tr.pinterest.com/pin/223772675218185169/)" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" alt="php" width="45" height="45"/>
+</p>
+<p>
+  <img src="<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg](https://tr.pinterest.com/pin/223772675218185169/)" alt="php" width="45" height="45"/>"
 </p>
