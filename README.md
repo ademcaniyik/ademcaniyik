@@ -1,8 +1,7 @@
 ### Hi there 👋
-<p align="center">
-  <img src="(https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gsjy7ba3cwx8h4e2zexmuuo5p80f7u822uidly4y&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
-</p>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
 - ⚡ I’m currently learning PHP and Laravel
 - 💬 Ask me about web frontend
 - 📫 How to reach me: ademcaniyik7@gmail.com
