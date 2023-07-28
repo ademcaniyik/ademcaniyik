@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">(https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gsjy7ba3cwx8h4e2zexmuuo5p80f7u822uidly4y&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 </p>
 
 - ⚡ I’m currently learning PHP and Laravel
