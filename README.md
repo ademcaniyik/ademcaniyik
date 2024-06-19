@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/iyikademcan" target="blank"><img src="https://img.shields.io/twitter/follow/iyikademcan?logo=twitter&style=for-the-badge" alt="iyikademcan" /></a> </p>
 
-- 🔭 I’m currently working on **Inventory Managment System**
+- 🔭 I’m currently working on *Inventory Managment System*
 
-- 🌱 I’m currently learning **PHP Rest Api**
+- 🌱 I’m currently learning *PHP Rest Api*
 
-- 🤝 I’m looking for help with **PHP Laravel**
+- 🤝 I’m looking for help with *PHP Laravel*
 
 - 👨‍💻 All of my projects are available at [ademcaniyik.com.tr](ademcaniyik.com.tr)
 
-- 💬 Ask me about **php css html**
+- 💬 Ask me about *php css html*
 
-- 📫 How to reach me **ademcaniyik7@gmail.com**
+- 📫 How to reach me *ademcaniyik7@gmail.com*
 
 - 📄 Know about my experiences [ademcaniyik.com.tr](ademcaniyik.com.tr)
 
@@ -34,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ademcaniyik&show_icons=true&locale=en&layout=compact" alt="ademcaniyik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ademcaniyik&show_icons=true&locale=en" alt="ademcaniyik" /></p>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
