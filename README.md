@@ -34,5 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ademcaniyik&show_icons=true&locale=en&layout=compact" alt="ademcaniyik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ademcaniyik&show_icons=true&locale=en" alt="ademcaniyik" /></p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## My Contribution snake
+![Contribution snake example](https://github.com/<ademcaniyik>/<ademcaniyik>/blob/output/github-contribution-grid-snake.svg)
