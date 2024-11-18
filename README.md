@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://ademcaniyik.com.tr/" target="blank"><img src="https://img.shields.io/twitter/follow/iyikademcan?logo=twitter&style=for-the-badge" alt="iyikademcan" /></a> </p>
 
-- 🔭 I’m currently working on *Inventory Managment System*
+- 🔭 I’m currently working on *React*
 
-- 🌱 I’m currently learning *PHP Rest Api*
+- 🌱 I’m currently learning *PHP Rest Api and Typscript*
 
-- 🤝 I’m looking for help with *PHP Laravel*
+- 🤝 I’m looking for help with *PHP Laravel, Codeigniter*
 
 - 👨‍💻 All of my projects are available at [ademcaniyik.com.tr](ademcaniyik.com.tr)
 
-- 💬 Ask me about *php css html*
+- 💬 Ask me about *php css html javascript and typscript*
 
 - 📫 How to reach me *ademcaniyik7@gmail.com*
 
