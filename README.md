@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with *PHP Laravel, Codeigniter*
 
-- 👨‍💻 All of my projects are available at [ademcaniyik.com.tr](ademcaniyik.com.tr)
+- 👨‍💻 All of my projects are available at [ademcan.tech](ademcan.tech)
 
 - 💬 Ask me about *php css html javascript and typscript*
 
 - 📫 How to reach me *ademcaniyik7@gmail.com*
 
-- 📄 Know about my experiences [ademcaniyik.com.tr](ademcaniyik.com.tr)
+- 📄 Know about my experiences [ademcan.tech](ademcan.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
